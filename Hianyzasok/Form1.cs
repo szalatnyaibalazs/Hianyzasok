@@ -48,7 +48,7 @@ namespace Hianyzasok
             }
             else
             {
-                char[] szamok = new char[] {'1','2','3','4','5','6','7','8','9' };
+                char[] szamok = new char[] {'0','1','2','3','4','5','6','7','8','9' };
                 bool van = false;
                 for (int i = 0; i < tbElso.Text.Length; i++)
                 {
